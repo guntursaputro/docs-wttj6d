@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ad7ej3.goib138.site/sitemap.xml
